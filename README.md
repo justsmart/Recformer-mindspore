@@ -2,8 +2,9 @@
 
 This code is implemented by [mindspore 2.0.0](https://www.mindspore.cn/install).
 
+The implement by Pytorch is [here](https://github.com/justsmart/RecFormer).
 
-### handwritten-5view dataset is provided for a demo! 
+"handwritten-5view" dataset is provided for a demo! 
 
 Run "python train.py".
 

@@ -1,6 +1,6 @@
 # RecFormer
 
-This code is implemented by (https://www.mindspore.cn/install)[mindspore 2.0.0].
+This code is implemented by [mindspore 2.0.0](https://www.mindspore.cn/install).
 
 
 ### handwritten-5view dataset is provided for a demo! 

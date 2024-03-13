@@ -197,6 +197,7 @@ def main(args,file_path):
     logger = utils.setLogger(logfile)
     
     for fold_idx in range(folds_num):
+        fold_idx=fold_idx+3
         train_dataloder,train_dataset = mydataset.getIncDataloader(data_path,fold_data_path,fold_idx=fold_idx,is_train=True,batch_size=args.batch_size,shuffle = False,num_workers=1)
         # train_dataloder,train_dataset = mydataset.getComDataloader(data_path,is_train=True,batch_size=args.batch_size,shuffle = False,num_workers=4)
 

@@ -12,10 +12,13 @@ Run "python train.py".
 # Citation
 ```bibtex
 @article{liu2023information,
-  title={Information Recovery-Driven Deep Incomplete Multi-view Clustering Network},
   author={Liu, Chengliang and Wen, Jie and Wu, Zhihao and Luo, Xiaoling and Huang, Chao and Xu, Yong},
-  journal={arXiv preprint arXiv:2304.00429},
-  year={2023}
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Information Recovery-Driven Deep Incomplete Multiview Clustering Network}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-11},
 }
 ```
 
